@@ -2,6 +2,7 @@
 **CRUD REST API for plants. You can create plants with attatched genera names.**
 
 To get the docker container up and running, use this commands while located inside of the root folder:
+
   docker build -t flask-nginx-api-one .
   
   docker run -d -p 80:80 -t flask-nginx-api-one
