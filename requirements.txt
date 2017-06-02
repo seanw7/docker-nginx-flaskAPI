@@ -1,0 +1,16 @@
+Flask
+Flask-JWT
+flask-restful
+Flask-SQLAlchemy
+itsdangerous
+Jinja2
+MarkupSafe
+packaging
+PyJWT
+pyparsing
+python-dateutil
+pytz
+six
+SQLAlchemy
+Werkzeug
+uwsgi
